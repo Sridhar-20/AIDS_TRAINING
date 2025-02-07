@@ -4,7 +4,7 @@ from sqlalchemy import create_engine
 username = 'root'  # Your MySQL username
 password = '1234'  # Your MySQL password
 host = 'localhost'  # Your MySQL host, e.g., 'localhost' or an IP address
-database = 'sripaada'  # Your MySQL database name
+database = 'sridhar'  # Your MySQL database name
 
 connection_string = f'mysql+mysqlconnector://{username}:{password}@{host}/{database}'
 
